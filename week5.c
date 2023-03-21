@@ -1,3 +1,4 @@
+/* how many numbers between 1 and 10^10 are not divided by any of the divisors.*/
 #include <stdio.h>
 long bitcount(long v) {
   long c;
